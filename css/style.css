@@ -1,0 +1,215 @@
+*{
+    margin: 0;
+}
+header{
+    background-image: url(../images/banner/banner3.png);
+    height: 808px;
+    width: 1600px;
+}
+
+  
+
+
+.heading-title{
+    height: 228px;
+    width:525px;
+    margin-left: 845px;
+    margin-right: 230px;
+    padding-top: 216px;
+    font-size: 65px;
+    font-weight: 700;
+    text-align:right ;
+    margin-bottom: 24px;
+    color: #FFFFFF;
+   
+
+}
+.content{
+    height: 78px;
+    width: 495px;
+    margin-left: 845px;
+    margin-right: 230px;
+    text-align: right;
+    margin-bottom: 32px;
+    color: #FFFFFF;
+}
+.btn-primary{
+    margin-left: 1210px;
+    margin-right: 230px;
+
+}
+
+.btn-primary button{
+    height: 64px;
+    width:120px;
+    border-radius: 12px;
+    border: none;
+    color: #005FAC;
+}
+/* main pcrt start */
+main{
+   max-width:1072px;
+   margin: 0 auto;
+   
+
+   
+
+    
+   
+   
+}
+.image{
+    width: 569px;
+    height: 723px;
+    margin-bottom: 130px;
+
+}
+/* image part end */
+.right-contener{
+    display: flex;
+    align-items: center;
+
+} 
+.content{
+    align-items: center;
+
+
+}
+
+
+
+/* section part start */
+.My-Plans{
+    max-width:1072px;
+    margin: 0 auto;
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+    color: #151414 ;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.about-info img{
+    margin-top: 47px;
+    height: 92px;
+    width: 92px;
+    margin-bottom: 20px;
+}
+.info-title{
+    font-size: 30px;
+    font-weight: 700px;
+    color: #151414;
+
+
+}
+.info-description{
+    color:  #737272;
+    font-size: 25px;
+    font-weight: 500;
+    margin-top: 8px;
+    margin-bottom: 113px;
+}
+/* gradient start */
+.gredient{
+    background-image: url( ../images/watch.png);
+    max-width: 1140px;
+    height: 300px;
+    margin: 0 auto;
+    align-items: center;
+    margin-bottom: 130px;
+ 
+}
+.gredient-head{
+   width: 459;
+    height: 94px;
+    margin-right: 649px;
+    margin-left: 32px;
+    font-weight: 700;
+   font-size: 40px;
+   padding-top: 66px;
+   color:#FFFFFF
+
+}
+.gredient-btn{
+    width: 120px;
+    height: 64px;
+    margin-left: 64px;
+    margin-top: 16px;
+    border-radius: 12px;
+    color: #005FAC;  
+    font-size: 20px;
+    font-weight: 600;  
+    border: none;
+
+}
+/* footer start */
+.footre-main{
+    width: auto;
+    height: 577px;
+    background-color: #151414;
+
+}
+.footer-sec{
+    display: flex;
+   
+}
+.left-part{
+    align-items: left;
+    color: #FFFFFF;
+    float: left;
+}
+
+
+
+.fo-heading{
+    padding-top: 130px;
+    margin-left: 230px;
+    margin-bottom: 16px;
+}
+.fo-content{
+    width: 485px;
+    height: 78px;
+    margin-left: 230px;
+    margin-right: 885px;
+    margin-bottom: 24px;
+
+
+}
+.email{
+    margin-left: 230px;
+    margin-right: 1186px;
+   
+}
+.phn-number{ 
+    margin-top: 16px;
+    margin-left: 230px;
+    margin-right: 1186px;
+  
+}
+
+/* .left-part img{
+   
+} */
+.fb-icon{
+    margin-top: 32px;
+    width: 47px;
+    height: 46px;
+    margin-left: 230px;
+    margin-right: 17px;
+    
+
+}
+.twitter-icon{
+    width: 47px;
+    height: 46px;
+    margin-right: 18px;
+}
+/* left footer end */
+.right-part{
+    float: right;
+    color: #FFFFFF;
+    margin-top: 130px;
+}
